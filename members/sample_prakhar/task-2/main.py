@@ -1,0 +1,1 @@
+print("Solution for Task 2")
