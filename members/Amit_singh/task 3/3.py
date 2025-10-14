@@ -18,5 +18,7 @@ def game():
         else:
             print("You found the treasure! 🏆")
             found = True
+            map[guess]="🏆"
+            print(map)
 
 game()
